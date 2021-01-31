@@ -1,3 +1,6 @@
 *migrations*
 .env
 db.sqlite3
+node_modules
+.env
+.eslintcache
