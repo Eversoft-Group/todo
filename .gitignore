@@ -1,6 +1,7 @@
 *migrations*
 .env
 db.sqlite3
+*__pycache__*
 node_modules
 .env
 .eslintcache
