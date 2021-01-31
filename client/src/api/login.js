@@ -1,6 +1,6 @@
 import axiosInstance from "./axios";
 
-const login = (username, password) =>
-  axiosInstance.post("/api/logoin", { username, password });
+const login = (data) =>
+  axiosInstance.post("/api/login/", data);
 
 export { login };
